@@ -207,7 +207,7 @@ Use an ESM-compatible TypeScript configuration:
 
 Create or update .env:
 
-PORT=5000
+PORT=****
 
 DATABASE_URL="postgresql://USERNAME:PASSWORD@HOST:5432/DATABASE_NAME"
 
